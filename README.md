@@ -1,4 +1,7 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub
+# To Run the jar file :
+In the cmd write :java -jar HW2.jar
+
 
 ## 🤓 Course overview and learning outcomes 
 
